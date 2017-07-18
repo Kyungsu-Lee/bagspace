@@ -41,7 +41,7 @@ class TimeerHelper extends Component
     return(
       !this.state.showText ?
       <Image
-        source={require('../img/loading_bg.png')}
+        source={require('../img/main_bg.png')}
         style={[loading_style.bg, {width:width, height:height}]}
       >
 

@@ -7,7 +7,7 @@
  import React, { Component } from 'react';
  import { AppRegistry, Navigator } from 'react-native';
 
- import MyScene from './Activity/Loading';
+ import MyScene from './Activity/New_Loading';
 
  class Main extends Component {
    render()
